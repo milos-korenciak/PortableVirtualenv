@@ -3,7 +3,7 @@ This are some (almost) minimal portable virtualenvs made from miniconda
 current directory.
 
 How to use:
-~~~~~~~~~~~
+===========
 1. Download proper archive for you.
 2. Decompress it.
 3. Activate it on commandline:
@@ -22,15 +22,15 @@ where python
 python -m pip install -U pip virtualbox ...
 
 Limits:
-~~~~~~~
+=======
 As long as I know: on unix use bash. In other interpreters my patch of .../bin/activate can fail.
 
 Credits:
-~~~~~~~~
+========
 All credits to Python makers, (ana)conda team, pip and virtualenv authors.
 
 License:
-~~~~~~~~
+========
 License of each file is as for corresponding package it is taken from.
 License of my work ( :-D probably the patch of activate script solely) is public domain or 3-clause-BSD whatever you choose.
 
