@@ -1,4 +1,4 @@
-These are some (almost) minimal portable isolated virtualenvs.
+(Almost) Minimal portable isolated virtualenvs.
 
 They are made from miniconda (conda.io). There is replaced small part of activate script autodetecting current directory.
 
