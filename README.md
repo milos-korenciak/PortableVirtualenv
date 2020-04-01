@@ -7,19 +7,29 @@ How to use:
 1. Download proper archive for you.
 2. Decompress it.
 3. Activate it on commandline:
-Linux or Mac
-source /path/to/virtualenv/dir../bin/activate
-Windows
-call Z:\path\to\virtualenv\dir..\Scripts\activate.bat
+⋅⋅*Linux or Mac
+   ```bash
+   source /path/to/virtualenv/dir../bin/activate
+   ```
+⋅⋅*Windows
+   ```bat
+   call Z:\path\to\virtualenv\dir..\Scripts\activate.bat
+   ```
 4. Now you use proper python on console. Check it:
-Linux or Mac
-which python
-# should be /path/to/virtualenv/dir../bin/python
-Windows
-where python
-# should be Z:\path\to\virtualenv\dir..\Scripts\python.exe
+⋅⋅*Linux or Mac
+   ```bash
+   which python
+   ```
+   # should be /path/to/virtualenv/dir../bin/python
+⋅⋅*Windows
+```bat
+   where python
+   ```
+   # should be Z:\path\to\virtualenv\dir..\Scripts\python.exe
 5. Use other commandline utilities by invoking of python. E.g. pip:
-python -m pip install -U pip virtualbox ...
+   ```bash
+   python -m pip install -U pip virtualbox ...
+   ```
 
 Limits:
 =======
