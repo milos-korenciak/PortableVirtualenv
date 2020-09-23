@@ -2,6 +2,8 @@
 
 They are made from miniconda (conda.io). There is replaced small part of activate script autodetecting current directory.
 
+On Windows you need to have pre-installed VC ++ redistributable runtime: https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads .
+
 How to use:
 -----------
 1. Download proper archive for you.
